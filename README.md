@@ -20,7 +20,7 @@
 * **更新频率**
 
     -  随缘更新
-    - [Releases](https://github.com/Suzhelan/NewQStory/releases) 大约在版本迭代5-10个内更新
+    - [Releases](https://qstory.linl.top/update/downloadApk) 更新直链
     - [Telegram](https://t.me/WhenFlowersAreInBloom) 在构建测试结束后会更新
 
 ---  
@@ -33,9 +33,3 @@
 此项目会因为各种可抗不可抗因素随时停止维护  
 如果发生了更糟糕的情况我们会及时 **删除代码库** 以及 **发行渠道的所有版本**  
 在此之前你或许可以及时保存我们的工作成品
-#### 如果你有能力欢迎加入到代码贡献开发中 
-> **此项目的流行语言是Java  
-> JDK版本为17.0.9 请不要使用低于此版本的JDK编译**
-
-可能你因为个人原因无法参与代码开发 , 可以为此项目点一个 <kbd>:star:STAR</kbd>  
-或是学习此项目~~糟糕~~的代码 这会为未来带来很大的帮助 学习路慢慢  
