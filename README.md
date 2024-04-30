@@ -33,3 +33,5 @@
 此项目会因为各种可抗不可抗因素随时停止维护  
 如果发生了更糟糕的情况我们会及时 **删除代码库** 以及 **发行渠道的所有版本**  
 在此之前你或许可以及时保存我们的工作成品
+
+[LSPosed-Repo-Github](https://github.com/Xposed-Modules-Repo/lin.xposed)
