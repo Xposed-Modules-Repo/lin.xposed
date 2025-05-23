@@ -20,7 +20,7 @@
 * **更新频率**
 
     -  随缘更新
-    - [Releases](https://qstory.linl.top/update/downloadApk) 更新直链
+    - [Releases](https://qstory.sacz.top/update/download) 更新直链
     - [Telegram](https://t.me/WhenFlowersAreInBloom) 在构建测试结束后会更新
 
 ---  
