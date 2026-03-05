@@ -34,4 +34,6 @@
 如果发生了更糟糕的情况我们会及时 **删除代码库** 以及 **发行渠道的所有版本**  
 在此之前你或许可以及时保存我们的工作成品
 
+[模块使用教程](https://deeply-raptor-37d.notion.site/Root-2c0ef1ecbe4a80939e39c3e53cd20525)
+
 [LSPosed-Repo-Github](https://github.com/Xposed-Modules-Repo/lin.xposed)
