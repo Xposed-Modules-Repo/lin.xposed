@@ -7,7 +7,7 @@
 ---
 
 ## Xposed QQ模块  
-## [模块主页](https://qstory.sacz.top)
+## [模块主页](https://suzhelan.top/scripts)
 * **预估支持的QQ版本 8.9.68~9.2.80 +**  
     * 其他版本未经测试 您或许可以自己尝试 
     
