@@ -8,14 +8,13 @@
 
 ## Xposed QQ模块  
 ## [模块主页](https://suzhelan.top/scripts)
-* **预估支持的QQ版本 8.9.68~9.2.80 +**  
-    * 其他版本未经测试 您或许可以自己尝试 
+* **预估支持的QQ版本 8.9.68~9.xx +**  
+    * 模块自适配QQ版本 但是其他版本未经测试 您或许可以自己尝试 
     
 * **推荐使用的框架**
     - 1.[LSPosed](https://github.com/LSPosed/LSPosed)
-    - 2.[LSPatch](https://github.com/LSPosed/LSPatch) 本地模式(没root的可以用这个)
-    - 3.[LSPatch](https://github.com/LSPosed/LSPatch) 内置模式(便携模式 或者这个)
-    - 4.太极-无极
+    - 2.[LSPatch](https://github.com/LSPosed/LSPatch)
+
  ---
 * **更新频率**
 
